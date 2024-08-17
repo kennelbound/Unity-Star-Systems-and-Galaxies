@@ -1,0 +1,22 @@
+{
+  "name": "notakamihe.unity-star-systems-and-galaxies",
+  "references": [
+    "Unity.AI.Navigation",
+    "Unity.CollabProxy",
+    "Unity.Rider.Editor",
+    "Unity.VisualStudio.Editor",
+    "Unity.VSCode.Editor",
+    "Unity.ShaderGraph",
+    "Unity.Timeline",
+    "Unity.ugui"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
